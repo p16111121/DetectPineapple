@@ -1,0 +1,2 @@
+0 pineapple
+1 notpinapple
